@@ -8,6 +8,7 @@ Fork it and change `db.json` values or create a repo with a `db.json` file.
 
 ## Format of `db.json` file
 
+```
 {
   "posts": [
     { "id": 1, "title": "Post 1" },
@@ -22,3 +23,4 @@ Fork it and change `db.json` values or create a repo with a `db.json` file.
     "name": "typicode"
   }
 }
+```
