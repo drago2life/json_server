@@ -6,8 +6,6 @@
         "unitname": "10",
         "mtm": "20C1, 20C3",
         "recoveryName": "00LC180",
-        "os": "8.1 PRO X64",
-        "mediaTypes": "USB STICK 1",
         "location": "Cabinet 1 Drawer 1"
     },
     {
@@ -15,8 +13,6 @@
         "unitname": "10",
         "mtm": "20E3, 20E4",
         "recoveryName": "00XF560",
-        "os": "10 PRO X64",
-        "mediaTypes": "USB STICK",
         "location": "Cabinet 1 Drawer 1"
     },
     {
@@ -24,8 +20,6 @@
         "unitname": "10",
         "mtm": "20E3, 20E4",
         "recoveryName": "00XF560",
-        "os": "10 PRO X64",
-        "mediaTypes": "USB STICK",
         "location": "Cabinet 1 Drawer 1"
     },
     {
@@ -33,8 +27,6 @@
         "unitname": "10",
         "mtm": "20E3, 20E4",
         "recoveryName": "01AU702",
-        "os": "10 PRO X64",
-        "mediaTypes": "USB STICK",
         "location": "Cabinet 1 Drawer 1"
     },
     {
@@ -42,8 +34,6 @@
         "unitname": "10",
         "mtm": "20C1, 20C3",
         "recoveryName": "00LC178",
-        "os": "8.1 PRO X64",
-        "mediaTypes": "USB STICK",
         "location": "Cabinet 1 Drawer 1"
     },
     {
@@ -51,8 +41,6 @@
         "unitname": "10",
         "mtm": "20C1, 20C3",
         "recoveryName": "00LC128 - SPANISH",
-        "os": "8.1 PRO X32",
-        "mediaTypes": "USB STICK",
         "location": "Cabinet 1 Drawer 1"
     },
     {
@@ -60,8 +48,6 @@
         "unitname": "13",
         "mtm": "20GJ, 20GK, 20GU",
         "recoveryName": "01HP253",
-        "os": "10 PRO X64",
-        "mediaTypes": "USB STICK",
         "location": "Cabinet 1 Drawer 1"
     },
     {
@@ -69,8 +55,6 @@
         "unitname": "13",
         "mtm": "20J1,20J2,20J3",
         "recoveryName": "01HR978",
-        "os": "10 PRO X64",
-        "mediaTypes": "USB STICK",
         "location": "Cabinet 1 Drawer 1"
     },
     {
@@ -78,8 +62,6 @@
         "unitname": "13",
         "mtm": "20GJ, 20GK",
         "recoveryName": "01HU027",
-        "os": "10 HOME",
-        "mediaTypes": "USB STICK",
         "location": "Cabinet 1 Drawer 1"
     },
     {
@@ -87,8 +69,6 @@
         "unitname": "13",
         "mtm": "20J1,20J2,20J3",
         "recoveryName": "01HR954",
-        "os": "10 HOME x64",
-        "mediaTypes": "USB STICK",
         "location": "Cabinet 1 Drawer 1"
     },
     {
@@ -109,215 +89,7 @@
         "mediaTypes": "USB STICK",
         "location": "Cabinet 1 Drawer 1"
     },
-    {
-        "id": 16,
-        "unitname": "11E 3RD, YOGA 11E 3RD",
-        "mtm": "20GA, 20G8, 20GB, 20G9",
-        "recoveryName": "01HR842",
-        "os": "10 PRO X64",
-        "mediaTypes": "USB STICK",
-        "location": "Cabinet 1 Drawer 1"
-    },
-    {
-        "id": 17,
-        "unitname": "11E, YOGA 11E",
-        "mtm": "20D9, 20DA",
-        "recoveryName": "00LE343",
-        "os": "8.1 PRO X64",
-        "mediaTypes": "DVD",
-        "location": "Cabinet 1 Drawer 1"
-    },
-    {
-        "id": 18,
-        "unitname": "D30",
-        "mtm": "4223, 4229",
-        "recoveryName": "03W0152",
-        "os": "7 PRO X64 SP1",
-        "mediaTypes": "DVD",
-        "location": "Cabinet 1 Drawer 1"
-    },
-    {
-        "id": 19,
-        "unitname": "E430, E530",
-        "mtm": "6271, 6272 ",
-        "recoveryName": "00EU397",
-        "os": "8 PRO X64",
-        "mediaTypes": "DVD",
-        "location": "Cabinet 1 Drawer 1"
-    },
-    {
-        "id": 20,
-        "unitname": "E440, E540",
-        "mtm": "20C5, 20C6",
-        "recoveryName": "00LE183",
-        "os": "8.1 PRO X64",
-        "mediaTypes": "DVD",
-        "location": "Cabinet 1 Drawer 1"
-    },
-    {
-        "id": 21,
-        "unitname": "E440, E540",
-        "mtm": "20C5, 20C6",
-        "recoveryName": "01HP550",
-        "os": "8 PRO X64",
-        "mediaTypes": "DVD",
-        "location": "Cabinet 1 Drawer 1"
-    },
-    {
-        "id": 22,
-        "unitname": "E440, E540",
-        "mtm": "20C5, 20C6",
-        "recoveryName": "00HP550",
-        "os": "8 PRO X64",
-        "mediaTypes": "DVD",
-        "location": "Cabinet 1 Drawer 1"
-    },
-    {
-        "id": 23,
-        "unitname": "E450, E455, E550, E555",
-        "mtm": "20DC,20DD, 20DE, 20DF, 20DG, 20DH",
-        "recoveryName": "00LD553",
-        "os": "8.1 PRO X64",
-        "mediaTypes": "DVD",
-        "location": "Cabinet 1 Drawer 1"
-    },
-    {
-        "id": 24,
-        "unitname": "E450, E455, E550, E555",
-        "mtm": "20DC,20DD, 20DE, 20DF, 20DG, 20DH",
-        "recoveryName": "00LD590",
-        "os": "8.1 PRO X64",
-        "mediaTypes": "DVD",
-        "location": "Cabinet 1 Drawer 1"
-    },
-    {
-        "id": 25,
-        "unitname": "E455, E555, E450, E550, E550c, E450c",
-        "mtm": "20DE, 20DH, 20DC, 20DD, 20DF, 20DG, 20E0, 20EH",
-        "recoveryName": "00UV798",
-        "os": "8.1 PRO X64",
-        "mediaTypes": "USB STICK",
-        "location": "Cabinet 1 Drawer 1"
-    },
-    {
-        "id": 26,
-        "unitname": "E455, E555, E450, E550, E550c, E450c",
-        "mtm": "20DE, 20DH, 20DC, 20DD, 20DF, 20DG, 20E0, 20EH",
-        "recoveryName": "01HU595",
-        "os": "10 PRO X64",
-        "mediaTypes": "USB STICK",
-        "location": "Cabinet 1 Drawer 1"
-    },
-    {
-        "id": 27,
-        "unitname": "E460, E465, E560, E565",
-        "mtm": "20ET, 20EU, 20EX, 20EV, 20EW, 20EY",
-        "recoveryName": "00XE281",
-        "os": "7 PRO X64",
-        "mediaTypes": "DVD",
-        "location": "Cabinet 1 Drawer 1"
-    },
-    {
-        "id": 28,
-        "unitname": "E465, E565, E460, E560, E560C",
-        "mtm": "20ET, 20EU, 20EX, 20EV, 20EW, 20EY",
-        "recoveryName": "01HU538",
-        "os": "10 PRO X64",
-        "mediaTypes": "USB STICK",
-        "location": "Cabinet 1 Drawer 1"
-    },
-    {
-        "id": 29,
-        "unitname": "E465, E565, E460, E560, E560C",
-        "mtm": "20ET, 20EU, 20EX, 20EV, 20EW, 20EY",
-        "recoveryName": "01DP133",
-        "os": "10 HOME",
-        "mediaTypes": "USB STICK",
-        "location": "Cabinet 1 Drawer 1"
-    },
-    {
-        "id": 30,
-        "unitname": "E470, E470C, E570, E570C",
-        "mtm": "20H1, 20H2, 20H3, 20H5, 20H6, 20H7",
-        "recoveryName": "01HP003",
-        "os": "10 PRO X64",
-        "mediaTypes": "USB STICK",
-        "location": "Cabinet 1 Drawer 1"
-    },
-    {
-        "id": 31,
-        "unitname": "E470, E470C, E570, E570C",
-        "mtm": "20H1, 20H2, 20H3, 20H5, 20H6, 20H7",
-        "recoveryName": "01HP024",
-        "os": "10 PRO X64",
-        "mediaTypes": "USB STICK",
-        "location": "Cabinet 1 Drawer 1"
-    },
-    {
-        "id": 32,
-        "unitname": "E531",
-        "mtm": "6885, 6887",
-        "recoveryName": "00FT543",
-        "os": "7 PRO X64",
-        "mediaTypes": "DVD",
-        "location": "Cabinet 1 Drawer 1"
-    },
-      {
-        "id": 61,
-        "unitname": "M83, M93,M93P",
-        "mtm": "10AH,10AJ,10AN,10AG,10AM,10BE,10AK,10AL,10A4,10A0,10A5,10A2,10A3,10A6,10AA,10AB,10A7,10DH,10A8,10A9",
-        "recoveryName": "00LG631",
-        "os": "7 PRO X64",
-        "mediaTypes": "DVD",
-        "location": "Cabinet 1 Drawer 1"
-    },
-    {
-        "id": 62,
-        "unitname": "M83, M93,M93P",
-        "mtm": "10AH,10AJ,10AN,10AG,10AM,10BE,10AK,10AL,10A4,10A0,10A5,10A2,10A3,10A6,10AA,10AB,10A7,10DH,10A8,10A9",
-        "recoveryName": "01GE666",
-        "os": "7 PRO X32 SP1",
-        "mediaTypes": "DVD",
-        "location": "Cabinet 1 Drawer 1"
-    },
     
-    {
-        "id": 66,
-        "unitname": "M91,M91p",
-        "mtm": "0266, 0384, 4168,4466,4468,4471,4473,4474,4476,4479,4480,4485,4495,4496,4497,4498,4499,4503,4504,4512,4513,4517,4518,4524,4554,5027,5067,70057021,7023,7023,7032,7033,7034,7049,7053,7073, 7519",
-        "recoveryName": "03T3501",
-        "os": "7 PRO X64",
-        "mediaTypes": "DVD",
-        "location": "Cabinet 1 Drawer 1"
-    },
-    {
-        "id": 67,
-        "unitname": "M910Q, M910S, M910T, M910X, M710Q",
-        "mtm": "10MJ, 10MV, 10MX, 10MW, 10MK, 10ML, 10MM,10MN, 10My, 10ND, 10MQ, 10MS, 10MR, 10MT",
-        "recoveryName": "01GL065",
-        "os": "10 PRO X64",
-        "mediaTypes": "USB STICK",
-        "location": "Cabinet 1 Drawer 1"
-    },
-    {
-        "id": 68,
-        "unitname": "M93Z",
-        "mtm": "10AC, 10AD, 10AE,10AF",
-        "recoveryName": "00HE774",
-        "os": "8 PRO X64",
-        "mediaTypes": "DVD",
-        "location": "Cabinet 1 Drawer 1"
-    },
-   
-    {
-        "id": 87,
-        "unitname": "T410s, T410, T510,W510",
-        "mtm": "2901, 2904, 2907, 2912, 2924, 2926, 29283,2516, 2522, 2537, 2538, 2539, 4313, 4314, 4339, 4349, 4384, 4873, 4484, 4318, 4319, 4387, 4389, 4391",
-        "recoveryName": "76Y2206",
-        "os": "7 PRO X64",
-        "mediaTypes": "DVD",
-        "location": "Cabinet 1 Drawer 2"
-    },
     ]
   ],
   "comments": [
