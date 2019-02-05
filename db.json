@@ -1,20 +1,17 @@
 {   
-  "recovery": [
-        {        "id": 4,        "unitname": "10",        "mtm": "20C1, 20C3",        "recoveryName": "00LC180",        "location": "Cabinet 1 Drawer 1"
-    },
-    {
-        "id": 5,        "unitname": "10",        "mtm": "20E3, 20E4",        "recoveryName": "00XF560",        "location": "Cabinet 1 Drawer 1"
-    },
-    {
-        "id": 6,        "unitname": "10",        "mtm": "20E3, 20E4",        "recoveryName": "00XF560",        "location": "Cabinet 1 Drawer 1"
-    },
-    {
-        "id": 7,        "unitname": "10",        "mtm": "20E3, 20E4",        "recoveryName": "01AU702",        "location": "Cabinet 1 Drawer 1"
-    },
-    {
-        "id": 8,        "unitname": "10",        "mtm": "20C1, 20C3",        "recoveryName": "00LC178",        "location": "Cabinet 1 Drawer 1"
-    }  
-    
+   "posts": [
+    { "id": 1, "title": "Post 1" },
+    { "id": 2, "title": "Post 2" },
+    { "id": 3, "title": "Post 3" },
+    { "id": 4, "title": "Post 1" },
+    { "id": 5, "title": "Post 2" },
+    { "id": 6, "title": "Post 3" },
+    { "id": 7, "title": "Post 1" },
+    { "id": 8, "title": "Post 2" },
+    { "id": 9, "title": "Post 3" },
+    { "id": 10, "title": "Post 1" },
+    { "id": 11, "title": "Post 2" },
+    { "id": 12, "title": "Post 3" },     
   ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
