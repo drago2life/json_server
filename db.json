@@ -1,40 +1,18 @@
-{
+{   
   "recovery": [
-    
-    {
-        "id": 4,
-        "unitname": "10",
-        "mtm": "20C1, 20C3",
-        "recoveryName": "00LC180",
-        "location": "Cabinet 1 Drawer 1"
+        {        "id": 4,        "unitname": "10",        "mtm": "20C1, 20C3",        "recoveryName": "00LC180",        "location": "Cabinet 1 Drawer 1"
     },
     {
-        "id": 5,
-        "unitname": "10",
-        "mtm": "20E3, 20E4",
-        "recoveryName": "00XF560",
-        "location": "Cabinet 1 Drawer 1"
+        "id": 5,        "unitname": "10",        "mtm": "20E3, 20E4",        "recoveryName": "00XF560",        "location": "Cabinet 1 Drawer 1"
     },
     {
-        "id": 6,
-        "unitname": "10",
-        "mtm": "20E3, 20E4",
-        "recoveryName": "00XF560",
-        "location": "Cabinet 1 Drawer 1"
+        "id": 6,        "unitname": "10",        "mtm": "20E3, 20E4",        "recoveryName": "00XF560",        "location": "Cabinet 1 Drawer 1"
     },
     {
-        "id": 7,
-        "unitname": "10",
-        "mtm": "20E3, 20E4",
-        "recoveryName": "01AU702",
-        "location": "Cabinet 1 Drawer 1"
+        "id": 7,        "unitname": "10",        "mtm": "20E3, 20E4",        "recoveryName": "01AU702",        "location": "Cabinet 1 Drawer 1"
     },
     {
-        "id": 8,
-        "unitname": "10",
-        "mtm": "20C1, 20C3",
-        "recoveryName": "00LC178",
-        "location": "Cabinet 1 Drawer 1"
+        "id": 8,        "unitname": "10",        "mtm": "20C1, 20C3",        "recoveryName": "00LC178",        "location": "Cabinet 1 Drawer 1"
     }  
     
   ],
