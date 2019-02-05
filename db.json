@@ -35,57 +35,7 @@
         "mtm": "20C1, 20C3",
         "recoveryName": "00LC178",
         "location": "Cabinet 1 Drawer 1"
-    },
-    {
-        "id": 9,
-        "unitname": "10",
-        "mtm": "20C1, 20C3",
-        "recoveryName": "00LC128 - SPANISH",
-        "location": "Cabinet 1 Drawer 1"
-    },
-    {
-        "id": 10,
-        "unitname": "13",
-        "mtm": "20GJ, 20GK, 20GU",
-        "recoveryName": "01HP253",
-        "location": "Cabinet 1 Drawer 1"
-    },
-    {
-        "id": 11,
-        "unitname": "13",
-        "mtm": "20J1,20J2,20J3",
-        "recoveryName": "01HR978",
-        "location": "Cabinet 1 Drawer 1"
-    },
-    {
-        "id": 12,
-        "unitname": "13",
-        "mtm": "20GJ, 20GK",
-        "recoveryName": "01HU027",
-        "location": "Cabinet 1 Drawer 1"
-    },
-    {
-        "id": 13,
-        "unitname": "13",
-        "mtm": "20J1,20J2,20J3",
-        "recoveryName": "01HR954",
-        "location": "Cabinet 1 Drawer 1"
-    },
-    {
-        "id": 14,
-        "unitname": "11E",
-        "mtm": "20GB, 20G9",
-        "recoveryName": "00XE368",
-        "location": "Cabinet 1 Drawer 1"
-    },
-    {
-        "id": 15,
-        "unitname": "11E 3RD, YOGA 11E 3RD",
-        "mtm": "20GA, 20G8, 20GB, 20G9",
-        "recoveryName": "01HR843",
-        "location": "Cabinet 1 Drawer 1"
-    },
-    
+    }  
     
   ],
   "comments": [
