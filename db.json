@@ -76,8 +76,6 @@
         "unitname": "11E",
         "mtm": "20GB, 20G9",
         "recoveryName": "00XE368",
-        "os": "7 PRO X64",
-        "mediaTypes": "DVD",
         "location": "Cabinet 1 Drawer 1"
     },
     {
@@ -85,12 +83,10 @@
         "unitname": "11E 3RD, YOGA 11E 3RD",
         "mtm": "20GA, 20G8, 20GB, 20G9",
         "recoveryName": "01HR843",
-        "os": "10 PRO X64",
-        "mediaTypes": "USB STICK",
         "location": "Cabinet 1 Drawer 1"
     },
     
-    ]
+    
   ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
